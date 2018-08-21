@@ -1,0 +1,22 @@
+{
+    "license": "MIT",
+    "version": "1.0.0",
+    "author": "ctf0",
+    "name": "vue-async-helper",
+    "main": "src/index.js",
+    "description": "vuejs handling component loading state helper",
+    "homepage": "https://github.com/ctf0/vue-async-helper",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ctf0/vue-async-helper.git"
+    },
+    "peerDependecies": {
+        "vue": "^2.0.0"
+    },
+    "keywords": [
+        "vue",
+        "async",
+        "component",
+        "helper"
+    ]
+}
