@@ -55,7 +55,7 @@ npm install vue-async-helper --save
     ```
 
 - or globally
-    - first create a new file with the below
+    - first create a new file
         ```js
         // vac.js
         import VAC from 'vue-async-helper'
@@ -71,7 +71,7 @@ npm install vue-async-helper --save
 
     - next require that file and follow the usage as normal
         ```js
-        // app,js
+        // app.js
         require('vac.js')
 
         Vue.component('MyComp', VueAsyncComponent(import('abc.vue')))
