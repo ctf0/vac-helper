@@ -1,6 +1,8 @@
-# Vue Async Helper
-
-[![npm](https://img.shields.io/npm/v/vue-async-helper.svg?style=for-the-badge)](https://www.npmjs.com/package/vue-async-helper) [![npm](https://img.shields.io/npm/dt/vue-async-helper.svg?style=for-the-badge)](https://www.npmjs.com/package/vue-async-helper)
+<h1 align="center">
+    Vue Async Helper
+    <br>
+    <a href="https://www.npmjs.com/package/vue-async-helper"><img src="https://img.shields.io/npm/v/vue-async-helper.svg?style=for-the-badge" alt="npm" /></a> <a href="https://www.npmjs.com/package/vue-async-helper"><img src="https://img.shields.io/npm/dt/vue-async-helper.svg?style=for-the-badge" alt="npm" /></a>
+</h1>
 
 - based on : https://vuejs.org/v2/guide/components-dynamic-async.html#Handling-Loading-State
 - original post : https://forum.vuejs.org/t/global-config-for-async-components/40980
